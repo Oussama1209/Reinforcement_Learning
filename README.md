@@ -4,11 +4,11 @@ This project simulates user interactions to predict posture changes based on win
 
 ## Environment Setup
 
-### ExperimentEnv Class
+### ScreenEnv Class
 
 - **Grid Representation:** A 6x6 grid (36 positions) representing the screen.
-- **User Position:** The user starts at a specific position and can move within the grid.
-- **State and Action Spaces:** Defines the possible states and actions for the user.
+- **Window Position:** The window starts at a specific position and can move within the grid.
+- **State and Action Spaces:** Defines the possible states for the window and actions for the user.
 
 ## Agents
 
